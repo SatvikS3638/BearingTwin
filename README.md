@@ -5,9 +5,6 @@ has_children: true
 nav_order: 1
 ---
 
-# Project Overview
-This project implements a digital twin for a rolling element bearing using vibration data, signal processing, and machine learning to estimate fault severity and visualize health in real time. The system combines feature‑based health indicators, an ML regression model, a Fusion 360 add‑in, and a Raspberry Pi communication pipeline to support predictive maintenance of rotating machinery.
-
 # Data and Feature Engineering
 ## Data Collection
 * High‑frequency vibration data (sampling rate 97,656 Hz) was collected over 50 days from a bearing in a rotating machine.

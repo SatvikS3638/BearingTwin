@@ -32,7 +32,7 @@ This project implements a digital twin for a rolling element bearing using vibra
 ## Real-Time Dashboard
 * A dedicated Python-based dashboard displays a rotating bearing graphic, real‑time vibration plots, and a live data section showing feature values and health indicator for each time step.
 * Color‑coded alerts (green, yellow, red) provide instant feedback on normal, warning, and critical states, enabling quick maintenance decisions.
-![Python-based Digital Twin Dashboard](assets/images/pythontwin.png))
+![Python-based Digital Twin Dashboard](assets/images/pythontwin.png)
 
 # Edge Communication and Streaming
 ## Raspberry Pi Integration

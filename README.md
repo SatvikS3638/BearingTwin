@@ -20,6 +20,7 @@ This project implements a digital twin for a rolling element bearing using vibra
 ## Model Selection and Performance
 * Several regression models were evaluated (Linear Regression, Random Forest, Gradient Boosting, XGBoost, SVR, and multiple MLP variants) using R² and RMSE as metrics.
 * Random Forest achieved the best performance with R² ≈ 0.96 and RMSE ≈ 0.055, and was selected as the primary model for predicting fault severity and health indicator values.
+
 ![Model Comparison](assets/images/model.png)
 
 # Digital Twin Visualisation
